@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="BioCatch UI Test Suite" verbose="1" parallel="classes" thread-count="10">
+
+    <test name="TestEnvironment">
+        <groups>
+            <run>
+                <include name="Pri0"/>
+                <include name="Pri1"/>
+                <exclude name="Pri2"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="com.eliya.harush.tests.*" />
+        </packages>
+    </test>
+
+</suite>
