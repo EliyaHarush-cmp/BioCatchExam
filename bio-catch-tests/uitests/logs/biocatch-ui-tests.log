@@ -197,3 +197,7 @@
 17 May 2018 17:19:46 INFO   [main] INFO  com.eliya.harush.exam.biocatch.pages.HeaderPage  - Get all categories
 17 May 2018 17:19:55 INFO   [main] INFO  com.eliya.harush.exam.biocatch.pages.CartPage  - Select random product
 17 May 2018 17:33:49 INFO   [main] INFO  com.eliya.harush.exam.biocatch.pages.HeaderPage  - Click on 'Cart' button
+17 May 2018 18:16:03 INFO   [main] INFO  com.eliya.harush.exam.biocatch.AbstractTests  - Url under test: https://www.ebay.com/
+17 May 2018 18:16:05 INFO   [main] INFO  com.eliya.harush.exam.biocatch.AbstractTests  - Setting browser configuration
+17 May 2018 18:16:08 INFO   [main] INFO  com.eliya.harush.exam.biocatch.pages.HeaderPage  - Click on 'Shop By Category' button
+17 May 2018 18:16:08 INFO   [main] INFO  com.eliya.harush.exam.biocatch.pages.HeaderPage  - Get all categories
